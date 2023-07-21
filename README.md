@@ -3,7 +3,7 @@
 <br>
 🔎Buscando Estágio🔍
 <br>
-☕Estudante de Java
+☕Estudante de Java e web
 <br><br>
 <picture>
   <source
