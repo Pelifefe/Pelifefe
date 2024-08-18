@@ -1,9 +1,9 @@
 ## Olá seja bem-vindo👋
-💼Atualmente trabalho na BEXP, como suporte a clientes internos e infraestrutura
+💼Atualmente trabalho na NIC.br, como suporte em atendimento ao usuário no registro.br
 <br>
 🎓Estudo no Centro universitário Senac em Análise e Desenvolvimento de Sistemas
 <br>
-👨‍💻Meu foco atual é o Back end em Java para aplicações web
+👨‍💻Meu foco atual é o Back end em Java para aplicações Web
 <br>
 
 ### Contatos
