@@ -2,19 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=98BBF7&width=635&height=70&lines=+Hello%2C+my+name+is+Felippe;I'm+a+developer)](https://git.io/typing-svg)
 <br>
-💼I currently work at NIC.br, supporting user service at Registro.br
+💼My expertise lies in Software Development for Web applications
 <br>
-🎓Study at the Senac University Center in Systems Analysis and Development
+🎓Graduated in Systems Analysis and Development
 <br>
-👨‍💻My current focus is Java Back End for Web Applications
+👨‍💻I have over 2 years of experience in development
 <br>
 
 ### Contacts
 
 [![Gmail Pelifefe](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felippeapedrosa2004@gmail.com)
 [![Linkedin Pelifefe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-a-pedrosa/)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pelifefe&theme=shadow-purple&card_width=695)](https://git.io/streak-stats)
 
 <div style="display: inline_block">
 	<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
