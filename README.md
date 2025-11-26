@@ -8,12 +8,14 @@
 <br>
 👨‍💻I have over 2 years of experience in development
 <br>
+<h4>Below are my contact details. I am available for proposals, questions, or anything else you would like to discuss.</h4>
 
 ### Contacts
 
 [![Gmail Pelifefe](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felippeapedrosa2004@gmail.com)
 [![Linkedin Pelifefe](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felippe-a-pedrosa/)
 
+### My Stack
 <div style="display: inline_block">
 	<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
